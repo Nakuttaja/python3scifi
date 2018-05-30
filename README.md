@@ -9,7 +9,7 @@ Project was inspired more or less directly from another course (FYS-1326 Methods
 
 We basically plot the data points and the cauchian distribution for the data as shown.
 
-![](pictures/plot.png)
+![](pictures/data.png)
 
 ### Monte Carlo integration
 
