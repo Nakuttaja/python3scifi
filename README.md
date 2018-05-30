@@ -12,3 +12,5 @@ Monte Carlo integration is a numerical integration technique. While other algori
 In layman's terms it "shoots a dart" at the plot. It then counts all the hits and misses (hit means the dart can be found inside the area of the function, miss means the opposite).
 
 These pictures show the number of times we "shoot a dart", N, and the corresponding probability P (hits divided by throws).
+
+![](pictures/mc100.png)
